@@ -1,7 +1,7 @@
-div{
+.thaku{
     background-color: brown; border: 5px solid black; border-radius: 15px; padding: 20px;
 }
 
 section{
-    background-color: aquamarine; padding: 30px; margin-top: 30px;
+    background-color: aquamarine; padding: 30px; margin-top: 30px; margin-bottom: 30px;
 }
